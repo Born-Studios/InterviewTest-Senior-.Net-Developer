@@ -38,7 +38,7 @@ It's imperitive to understand that we are not expecting every optional objective
 to be achieved, please work to your strengths and budget your time accordingly.
 A successful test submission could include some or no optional objectives being met.
 We are primarily interested in discussing your approach to the core objective and if
-any optional objectives
+any optional objectives were tackled then discussing the approach and outcome of those.
 - A basic authentication layer OR adding user based authentication.
 - If user based authentication is added, Modules can be 'owned' by a user and only
 Modules owned by a user are available to that user.
