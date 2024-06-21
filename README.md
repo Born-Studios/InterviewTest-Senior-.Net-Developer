@@ -18,6 +18,8 @@ and just make notes for us to go through in the follow-up interview.
 
 ### Requirements
 - The only hard requirement is that the API should be written with ASP.NET.
+- The submission should include a README.md file that outlines all the basic
+steps and requirements to compile and run the code locally.
 
 
 ### Core Objective
@@ -40,7 +42,8 @@ any optional objectives
 - A basic authentication layer OR adding user based authentication.
 - If user based authentication is added, Modules can be 'owned' by a user and only
 Modules owned by a user are available to that user.
-- A basic web front end to facilitate all of the core objectives.
+- A basic web front end to facilitate all of the core objectives. No particular
+framework or language is mandated.
 
 ### Questions
 For any questions or request for clarification, please feel free to reach us 
