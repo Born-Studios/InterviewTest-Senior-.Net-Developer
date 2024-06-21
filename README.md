@@ -36,7 +36,7 @@ CRUD operations pertaining to this model.
 ### Optional Objectives
 It's imperitive to understand that we are not expecting every optional objective
 to be achieved, please work to your strengths and budget your time accordingly.
-A successful test submission could include some or no optional objectived being met.
+A successful test submission could include some or no optional objectives being met.
 We are primarily interested in discussing your approach to the core objective and if
 any optional objectives
 - A basic authentication layer OR adding user based authentication.
